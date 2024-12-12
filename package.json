@@ -20,6 +20,10 @@
     "solid-js": "^1.8.7",
     "tailwindcss": "^3.4.0"
   },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.7",
+    "utf-8-validate": "^5.0.10"
+  },
   "devDependencies": {
     "@types/micromatch": "^4.0.6",
     "prettier": "^3.1.1",
